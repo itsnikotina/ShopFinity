@@ -1,4 +1,4 @@
-# 🟦 ShopFinity
+# ShopFinity
 
 **Landing page de Robux com entrega automática, integrada ao Discord.**
 
