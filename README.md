@@ -4,8 +4,8 @@
 
 Site institucional para venda de Robux, focado em transmitir segurança, profissionalismo e uma experiência rápida para o público gamer. Construído do zero em **HTML5 + CSS3 + JavaScript puro** — sem frameworks, sem dependências, 100% otimizado para performance.
 
-🔗 **Site proposta:** [itsnikotina.github.io/ShopFinity](https://itsnikotina.github.io/ShopFinity/)
-🔗 **Site final: https://www.shopfinity.com.br/**
+🔗 **Site proposta:** [itsnikotina.github.io/ShopFinity](https://itsnikotina.github.io/ShopFinity/).
+🔗 **Site final: https://www.shopfinity.com.br/**.
 
 ---
 
