@@ -44,25 +44,6 @@ ShopFinity/
 └── imgs/             # Ícones, logo e imagens do site
 ```
 
-## 💻 Como rodar localmente
-
-Não há build, instalação ou dependências. Basta abrir o `index.html` no navegador:
-
-```bash
-git clone https://github.com/itsnikotina/ShopFinity.git
-cd ShopFinity
-```
-
-Depois é só abrir o `index.html` diretamente ou usar uma extensão como o *Live Server* no VS Code.
-
-## 🌐 Deploy (GitHub Pages)
-
-O site é publicado automaticamente pelo **GitHub Pages**, direto a partir da branch `main`:
-
-1. Vá em **Settings → Pages**
-2. Em **Source**, selecione a branch `main` e a pasta `/ (root)`
-3. Salve — o site fica disponível em `https://itsnikotina.github.io/ShopFinity/`
-
 ## 🎨 Paleta de cores
 
 | Cor | Uso |
